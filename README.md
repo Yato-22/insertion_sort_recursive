@@ -55,7 +55,7 @@ A dry run of a recursive function for addition of n numbers:
 
 Ideate:
 
-
+Develop a C program which sorts a given array of whole numbers in ascending order. Make a recursive function for sorting it and use insertion sort to sort the given numbers.
 
 Build:
 
